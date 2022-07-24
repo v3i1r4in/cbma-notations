@@ -1,0 +1,26 @@
+{
+  "name": "cbma-notations",
+  "version": "1.0.0",
+  "description": "CBMA Notations",
+  "main": "index.js",
+  "scripts": {
+    "codegen": "sh generate-grammars-from-defs.sh",
+    "test": "npm run codegen && jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v3i1r4in/cbma-notations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v3i1r4in/cbma-notations/issues"
+  },
+  "homepage": "https://github.com/v3i1r4in/cbma-notations#readme",
+  "dependencies": {
+    "nearley": "^2.20.1"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}

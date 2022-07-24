@@ -1,0 +1,476 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`parse chord progression file successfully 1`] = `
+Array [
+  Object {
+    "progressions": Array [
+      Object {
+        "connectingChord": Array [
+          Object {
+            "borrowedKey": undefined,
+            "degree": "6",
+            "inversion": undefined,
+            "majorMinor": undefined,
+            "toString": [Function],
+          },
+        ],
+        "slot0": Object {
+          "primaryChord": Array [
+            Object {
+              "borrowedKey": undefined,
+              "degree": "6",
+              "inversion": undefined,
+              "majorMinor": undefined,
+              "toString": [Function],
+            },
+          ],
+          "toString": [Function],
+        },
+        "slot1": Object {
+          "primaryChord": Array [
+            Object {
+              "borrowedKey": undefined,
+              "degree": "6",
+              "inversion": undefined,
+              "majorMinor": undefined,
+              "toString": [Function],
+            },
+          ],
+          "toString": [Function],
+        },
+        "slot2": Object {
+          "primaryChord": Array [
+            Object {
+              "borrowedKey": undefined,
+              "degree": "6",
+              "inversion": undefined,
+              "majorMinor": undefined,
+              "toString": [Function],
+            },
+          ],
+          "toString": [Function],
+        },
+        "slot3": Object {
+          "primaryChord": Array [
+            Object {
+              "borrowedKey": undefined,
+              "degree": "6",
+              "inversion": undefined,
+              "majorMinor": undefined,
+              "toString": [Function],
+            },
+          ],
+          "toString": [Function],
+        },
+        "tags": Array [],
+        "toString": [Function],
+      },
+      Object {
+        "connectingChord": Array [
+          Object {
+            "borrowedKey": undefined,
+            "degree": "6",
+            "inversion": undefined,
+            "majorMinor": undefined,
+            "toString": [Function],
+          },
+        ],
+        "slot0": Object {
+          "primaryChord": Array [
+            Object {
+              "borrowedKey": undefined,
+              "degree": "6",
+              "inversion": undefined,
+              "majorMinor": undefined,
+              "toString": [Function],
+            },
+          ],
+          "toString": [Function],
+        },
+        "slot1": Object {
+          "primaryChord": Array [
+            Object {
+              "borrowedKey": undefined,
+              "degree": "1",
+              "inversion": undefined,
+              "majorMinor": undefined,
+              "toString": [Function],
+            },
+          ],
+          "toString": [Function],
+        },
+        "slot2": Object {
+          "primaryChord": Array [
+            Object {
+              "borrowedKey": undefined,
+              "degree": "2",
+              "inversion": undefined,
+              "majorMinor": "M",
+              "toString": [Function],
+            },
+          ],
+          "toString": [Function],
+        },
+        "slot3": Object {
+          "primaryChord": Array [
+            Object {
+              "borrowedKey": "F",
+              "degree": "3",
+              "inversion": undefined,
+              "majorMinor": "M",
+              "toString": [Function],
+            },
+          ],
+          "toString": [Function],
+        },
+        "tags": Array [
+          Object {
+            "key": "genre",
+            "toString": [Function],
+            "value": "celtic",
+          },
+        ],
+        "toString": [Function],
+      },
+      Object {
+        "connectingChord": Array [
+          Object {
+            "borrowedKey": undefined,
+            "degree": "6",
+            "inversion": undefined,
+            "majorMinor": undefined,
+            "toString": [Function],
+          },
+        ],
+        "slot0": Object {
+          "primaryChord": Array [
+            Object {
+              "borrowedKey": undefined,
+              "degree": "6",
+              "inversion": undefined,
+              "majorMinor": undefined,
+              "toString": [Function],
+            },
+          ],
+          "toString": [Function],
+        },
+        "slot1": Object {
+          "primaryChord": Array [
+            Object {
+              "borrowedKey": undefined,
+              "degree": "6",
+              "inversion": undefined,
+              "majorMinor": undefined,
+              "toString": [Function],
+            },
+          ],
+          "toString": [Function],
+        },
+        "slot2": Object {
+          "primaryChord": Array [
+            Object {
+              "borrowedKey": undefined,
+              "degree": "1",
+              "inversion": undefined,
+              "majorMinor": undefined,
+              "toString": [Function],
+            },
+          ],
+          "toString": [Function],
+        },
+        "slot3": Object {
+          "primaryChord": Array [
+            Object {
+              "borrowedKey": undefined,
+              "degree": "2",
+              "inversion": undefined,
+              "majorMinor": "M",
+              "toString": [Function],
+            },
+          ],
+          "toString": [Function],
+        },
+        "tags": Array [
+          Object {
+            "key": "genre",
+            "toString": [Function],
+            "value": "celtic",
+          },
+        ],
+        "toString": [Function],
+      },
+      Object {
+        "connectingChord": Array [
+          Object {
+            "borrowedKey": undefined,
+            "degree": "6",
+            "inversion": undefined,
+            "majorMinor": undefined,
+            "toString": [Function],
+          },
+        ],
+        "slot0": Object {
+          "primaryChord": Array [
+            Object {
+              "borrowedKey": undefined,
+              "degree": "6",
+              "inversion": undefined,
+              "majorMinor": undefined,
+              "toString": [Function],
+            },
+          ],
+          "toString": [Function],
+        },
+        "slot1": Object {
+          "primaryChord": Array [
+            Object {
+              "borrowedKey": undefined,
+              "degree": "2",
+              "inversion": "2",
+              "majorMinor": "M",
+              "toString": [Function],
+            },
+          ],
+          "toString": [Function],
+        },
+        "slot2": Object {
+          "primaryChord": Array [
+            Object {
+              "borrowedKey": undefined,
+              "degree": "6",
+              "inversion": undefined,
+              "majorMinor": undefined,
+              "toString": [Function],
+            },
+          ],
+          "secondaryChord": Array [
+            Object {
+              "borrowedKey": undefined,
+              "degree": "2",
+              "inversion": undefined,
+              "majorMinor": "M",
+              "toString": [Function],
+            },
+          ],
+          "toString": [Function],
+        },
+        "slot3": Object {
+          "primaryChord": Array [
+            Object {
+              "borrowedKey": "F",
+              "degree": "3",
+              "inversion": undefined,
+              "majorMinor": "M",
+              "toString": [Function],
+            },
+          ],
+          "toString": [Function],
+        },
+        "tags": Array [
+          Object {
+            "key": "piece",
+            "toString": [Function],
+            "value": "Kishi Ou no Hokori",
+          },
+          Object {
+            "key": "genre",
+            "toString": [Function],
+            "value": "celtic",
+          },
+          Object {
+            "key": "at",
+            "toString": [Function],
+            "value": "start",
+          },
+        ],
+        "toString": [Function],
+      },
+      Object {
+        "connectingChord": Array [
+          Object {
+            "borrowedKey": undefined,
+            "degree": "1",
+            "inversion": undefined,
+            "majorMinor": undefined,
+            "toString": [Function],
+          },
+        ],
+        "slot0": Object {
+          "primaryChord": Array [
+            Object {
+              "borrowedKey": undefined,
+              "degree": "6",
+              "inversion": undefined,
+              "majorMinor": undefined,
+              "toString": [Function],
+            },
+          ],
+          "toString": [Function],
+        },
+        "slot1": Object {
+          "primaryChord": Array [
+            Object {
+              "borrowedKey": undefined,
+              "degree": "2",
+              "inversion": "2",
+              "majorMinor": "M",
+              "toString": [Function],
+            },
+          ],
+          "toString": [Function],
+        },
+        "slot2": Object {
+          "primaryChord": Array [
+            Object {
+              "borrowedKey": undefined,
+              "degree": "4",
+              "inversion": undefined,
+              "majorMinor": undefined,
+              "toString": [Function],
+            },
+          ],
+          "secondaryChord": Array [
+            Object {
+              "borrowedKey": undefined,
+              "degree": "5",
+              "inversion": undefined,
+              "majorMinor": undefined,
+              "toString": [Function],
+            },
+          ],
+          "toString": [Function],
+        },
+        "slot3": Object {
+          "primaryChord": Array [
+            Object {
+              "borrowedKey": undefined,
+              "degree": "6",
+              "inversion": undefined,
+              "majorMinor": undefined,
+              "toString": [Function],
+            },
+          ],
+          "toString": [Function],
+        },
+        "tags": Array [
+          Object {
+            "key": "piece",
+            "toString": [Function],
+            "value": "Kishi Ou no Hokori",
+          },
+          Object {
+            "key": "genre",
+            "toString": [Function],
+            "value": "celtic",
+          },
+          Object {
+            "key": "at",
+            "toString": [Function],
+            "value": "ending",
+          },
+        ],
+        "toString": [Function],
+      },
+      Object {
+        "connectingChord": Array [
+          Object {
+            "borrowedKey": undefined,
+            "degree": "4",
+            "inversion": undefined,
+            "majorMinor": undefined,
+            "toString": [Function],
+          },
+        ],
+        "slot0": Object {
+          "primaryChord": Array [
+            Object {
+              "borrowedKey": undefined,
+              "degree": "1",
+              "inversion": undefined,
+              "majorMinor": undefined,
+              "toString": [Function],
+            },
+          ],
+          "toString": [Function],
+        },
+        "slot1": Object {
+          "primaryChord": Array [
+            Object {
+              "borrowedKey": undefined,
+              "degree": "2",
+              "inversion": undefined,
+              "majorMinor": undefined,
+              "toString": [Function],
+            },
+          ],
+          "toString": [Function],
+        },
+        "slot2": Object {
+          "primaryChord": Array [
+            Object {
+              "borrowedKey": "F",
+              "degree": "3",
+              "inversion": undefined,
+              "majorMinor": "M",
+              "toString": [Function],
+            },
+          ],
+          "toString": [Function],
+        },
+        "slot3": Object {
+          "primaryChord": Array [
+            Object {
+              "borrowedKey": "F",
+              "degree": "3",
+              "inversion": undefined,
+              "majorMinor": "M",
+              "toString": [Function],
+            },
+          ],
+          "toString": [Function],
+        },
+        "tags": Array [
+          Object {
+            "key": "piece",
+            "toString": [Function],
+            "value": "Kishi Ou no Hokori",
+          },
+          Object {
+            "key": "genre",
+            "toString": [Function],
+            "value": "celtic",
+          },
+          Object {
+            "key": "at",
+            "toString": [Function],
+            "value": "start",
+          },
+        ],
+        "toString": [Function],
+      },
+    ],
+    "toString": [Function],
+  },
+]
+`;
+
+exports[`parse chord progression stringify produces valid chord progression file 1`] = `
+"---
+6 | 6 | 6 | 6 > 6
+@genre: celtic
+6 | 1 | M2 | M3(F) > 6
+@genre: celtic
+6 | 6 | 1 | M2 > 6
+@piece: Kishi Ou no Hokori
+@genre: celtic
+@at: start
+6 | M2/2 | 6 M2 | M3(F) > 6
+@piece: Kishi Ou no Hokori
+@genre: celtic
+@at: ending
+6 | M2/2 | 4 5 | 6 > 1
+@piece: Kishi Ou no Hokori
+@genre: celtic
+@at: start
+1 | 2 | M3(F) | M3(F) > 4"
+`;
